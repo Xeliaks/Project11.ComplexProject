@@ -4,8 +4,6 @@ import java.util.Collections;
 
 
 public class Books {
-    private int count;
-
 
     private ArrayList<Book> books;
 
